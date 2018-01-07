@@ -1,0 +1,97 @@
+.head {
+	border-bottom: 10px solid #111111;
+	border-top: 5px solid black;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #f4e542;
+}
+
+a {
+	color: red;
+}
+.n {
+	float: left;
+	padding-bottom: 20px;
+}
+
+
+.n1 {
+	float: left;
+	margin-left: 5%;
+}
+.Center {
+	float: left;
+	color: red;
+}
+.n2 {
+	float: left;
+	margin-left: 5%;
+}
+.Poet {
+	float: left;
+	color: red;
+}
+.n3 {
+	float: left;
+	margin-left: 5%;
+}
+.Pol {
+	float: left;
+	color: red;
+}
+.n4 {
+	float: left;
+	margin-left: 5%;
+}
+.Pev {
+	float: left;
+	color: red;
+}
+.n5 {
+    margin-left: 5%;
+	float: left;
+}
+.Biz {
+	float: left;
+	color: red;
+}
+.n6 {
+	margin-left: 95%;
+	font-size: 30px;
+}
+.ENG {
+	color: black;
+}
+
+.body {
+	background-color: grey;
+}
+.shablon1 {
+	border: 5px solid black;
+	width:24%;
+	padding: 20px;
+	float: left;
+	border-radius: 15px;
+	margin-right: 1%;
+	background-color: white;
+}
+
+.shablon2 {
+	border: 5px solid black;
+	width: 49%;
+	padding: 20px;
+	float: left;
+	border-radius: 15px;
+	background-color: white;
+}
+
+.text1 {
+	margin-left: 2%;
+}
+.shablon3 {
+	border: 5px solid black;
+	padding: 20px;
+	margin-left: 75%;
+	border-radius: 15px;
+	background-color: white;
+}
